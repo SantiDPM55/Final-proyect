@@ -1,0 +1,40 @@
+SCRUM
+Product Owner (Dueño del producto): Ezequiel Ricca
+Scrum Master:  Santiago Rebolledo
+Development team member (Miembros de equipos): Santiago Rebolledo, Martin Beccarini, Roman Roatta, Leandro Aguirre, Valentino Lerda y Fausto Ferrando.
+Producto: Pagina de cursos de HTML y CSS.
+
+
+SPRINT:
+¿Qué es lo que vamos a hacer? 
+Una pagina de cursos sobre HTML y CSS. Los visitante de la pagina podran aprender sobre los antes mencionados y ademas podran reguistrarse con su email.
+
+
+¿Cómo lo vamos a hacer?
+* Se dialogó sobre el lenguaje y editor de texto a utilizar.
+* Se realizó un boceto de la idea principal
+* Se inició con el código
+* Se realizó el formato en HTML, el diseño en CSS y JavaScript, imágenes, texto 
+* Parte lógica, en donde se utilizó JavaScript, creando la interacción del usuario con la aplicación(Backend). Se programó el funcionamiento de botones.
+* Base de datos:
+* Se estableció un servidor local a través de XAMPP (herramienta de software libre para ejecutar un servidor Apache de forma local “localhost” sin la necesidad de internet) llevando a cabo la conexión por medio de php ( lenguaje de programación que permite el desarrollo web o aplicaciones web dinámicas) y dentro del mismo se adjuntó la parte de Frontend (formulario: HTML y CSS).
+
+
+
+
+SPRINT RETROSPECTIVA:
+
+
+Semanalmente nuestro Scrum Master evaluaba como el equipo fue trabajando y verificaba cómo avanzaba el producto. 
+
+
+* ¿Qué ha salido bien?
+El proyecto en sí, ya que funciona tal cual como se había imaginado y planificado. 
+* ¿Qué mejoras se van a realizar?
+Las mejoras a realizar: (propuestas del scrum master)
+* Agregar una encuesta sobre la experiencia de la pagina.
+* Un curso de JavaScript.
+* ¿Qué NO ha ido bien?
+Hubo fallos en el proceso, como lo mencionado anteriormente en la propuesta del Scrum Master, pero se pudieron superar y corregir exitosamente.
+* ¿Cómo se sintieron durante el proceso?
+En el proceso de construcción del programa nos sentimos frustrados. Por lo tanto, a la hora de terminarlo sentimos satisfacción al lograr lo esperado.
